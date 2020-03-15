@@ -1,0 +1,69 @@
+body{
+	
+	
+	background-image: url(images/Tree-wallpaper-to-use-as-background-135.jpg);
+	background-size:cover;
+
+	
+}
+.amader-form{
+	width:500px;
+	margin:30px auto;
+	background:rgba(0,0,0,.4);
+	padding:15px;
+	border-radius:5px;
+	
+	
+	
+	
+}
+.amader-form input{
+	display:block;
+	width:100%;
+	font-size:20px;
+	background:transparent;
+	padding:5px;
+	color:white;
+	border:1px solid red;
+	border-radius:5px;
+}
+.amader-form label{
+	font-family:tahoma;
+	cursor:pointer;
+	color:black;
+	font-size:20px;
+	padding:10px;
+	display:block;
+}
+.amader-form input[type="submit"]{
+	width:200px;
+	margin:5px auto;
+	cursor:pointer;
+}
+.amader-form p a{
+	font-size:15px;
+	color:red;
+}
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+

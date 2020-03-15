@@ -1,0 +1,303 @@
+.pic{
+	
+	height:200px;
+	width:200px;
+	padding:20px;
+}
+.header{
+	
+	background:#011700;
+	height:250px;
+	
+}
+.header2{
+	color:#fff;
+	margin-top:50px;
+	
+	
+}
+.header2 h2{
+	margin-bottom:50px;
+	font-family: 'Bungee', cursive;
+	color:#c0392b;
+}
+.hlg {
+	
+		margin-top:20px;
+		margin-bottom:50px;
+}
+.header3{
+	
+	margin-top:20px;
+}
+.menu button a{
+	color:#fff;
+	padding:5px 20px;
+}
+
+#hlog{
+	
+	color:#fff;
+	padding:5px 20px;
+}
+/* header end here */
+
+.left img{
+	
+	height:200px;
+	width:200px;
+	padding:0 20px;
+	margin-top:20px;
+}
+.left h3{
+	
+		padding:0 30px;
+		font-size:25px;
+	
+}
+.left p{
+	
+	font-size:22px;
+	color:#7f8c8d;
+	padding:0 20px;
+    font-family: 'Permanent Marker', cursive;
+
+}
+.quotes{
+	
+	font-family: 'Pacifico', cursive;
+	
+	margin-top:100px;
+	
+}
+.quotes h3 {
+	
+	font-size:50px;
+	
+	
+}
+.quotes h4 {
+	
+	font-size:35px;
+	
+	
+}
+.main-body{
+	height:620px;
+	background:#81ecec;
+}
+address{
+	font-size:20px;
+	padding:0 20px;
+	
+}
+/* skills start here */
+
+.sk1 {
+  display: inline-block;
+  position: relative;
+  text-align: center;
+}
+
+.pie-value {
+  display: block;
+  position: absolute;
+  font-size: 100px;
+  height: 40px;
+  top: 50%;
+  left: 0;
+  right: 0;
+  margin-top: -20px;
+  line-height: 40px;
+}
+/* == */
+.sk2 {
+  display: inline-block;
+  position: relative;
+  text-align: center;
+}
+
+.pie-value {
+  display: block;
+  position: absolute;
+  font-size: 14px;
+  height: 40px;
+  top: 50%;
+  left: 0;
+  right: 0;
+  margin-top: -20px;
+  line-height: 40px;
+}
+/* == */
+.sk3 {
+  display: inline-block;
+  position: relative;
+  text-align: center;
+}
+
+.pie-value {
+  display: block;
+  position: absolute;
+  font-size: 14px;
+  height: 40px;
+  top: 50%;
+  left: 0;
+  right: 0;
+  margin-top: -20px;
+  line-height: 40px;
+}
+/* == */
+.sk4 {
+  display: inline-block;
+  position: relative;
+  text-align: center;
+}
+
+.pie-value {
+  display: block;
+  position: absolute;
+  font-size: 14px;
+  height: 40px;
+  top: 50%;
+  left: 0;
+  right: 0;
+  margin-top: -20px;
+  line-height: 40px;
+}
+/* == */
+.pie-box{
+	
+	margin-top:100px;
+}
+.pie-box h2{
+	
+	/* margin:5px 10px; */
+	padding-left:25px;
+}
+.pie-box span{
+	font-size: 35px;
+	
+}
+.skills h1{
+	
+	margin-top:100px;
+	color:#2f3640;
+	font-family: 'Alfa Slab One', cursive;
+	
+}
+.skills{
+	
+	background:#dfe6e9;
+}
+.skills h3{
+	color:#2C3A47;
+    font-family: 'Shadows Into Light', cursive;
+
+}
+
+/* comment start here */
+
+
+.comment{
+	
+	background:#34495e;
+	
+	
+}
+.comment h2{
+	margin-top:50px;
+	margin-bottom:20px;
+	font-family: 'Bungee', cursive;
+	color:#fff;
+	
+}
+.comment h4{
+	
+	font-family: 'Bungee', cursive;
+	color:#fff;
+	
+}
+ label{
+	
+	
+	color:#fff;
+	font-size:20px;
+}
+
+#messege{
+	
+	background:#0984e3;
+	border:transparent;
+	color:#fff;
+	margin-bottom:50px ;
+	margin-top:10px;
+}
+.form-group input{
+	
+	font-size:20px;
+	color:#333;
+	
+}
+/* comment end here */
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
